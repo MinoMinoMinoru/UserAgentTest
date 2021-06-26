@@ -1,0 +1,12 @@
+
+### Normal Request
+GET http://localhost:3978
+
+{}
+
+
+### UA Test
+GET http://localhost:3978
+User-Agent: "hogehoge"
+
+{}
